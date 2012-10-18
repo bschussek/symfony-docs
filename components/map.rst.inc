@@ -48,6 +48,18 @@
 
   * :doc:`/components/finder`
 
+* :doc:`/components/form/index`
+
+  * :doc:`/components/form/introduction`
+  * :doc:`/components/form/working`
+  * :doc:`/components/form/modelforms`
+  * :doc:`/components/form/validation`
+  * :doc:`/components/form/rendering`
+  * :doc:`/components/form/security`
+  * :doc:`/components/form/customtypes`
+  * :doc:`/components/form/dynamicforms`
+  * :doc:`/components/form/extending`
+
 * :doc:`/components/http_foundation/index`
 
   * :doc:`/components/http_foundation/introduction`
